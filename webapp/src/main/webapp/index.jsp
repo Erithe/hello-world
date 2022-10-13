@@ -27,9 +27,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning! YOU CAN DO THIS!    <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    <br>
+   <h1> Thankyou, Happy Learning! We're over half-way through!
  </h1>
 
   
