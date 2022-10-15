@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Final? User Registration </h1>
+    <h1> Kind of actually goldfish User Registration </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
